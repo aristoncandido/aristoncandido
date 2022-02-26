@@ -1,4 +1,4 @@
-## Olá me chamo Ariston Cândido, prazer em lhe conhecer !!😎
+## Olá me chamo Ariston Cândido, prazer em lhe conhecer !
 
 </div>
   
