@@ -20,9 +20,12 @@
  
  <div>
   
-  <h2>   SEI LA</h2>
+  <h2> About me</h2>
   <p>
-          
+Atualmente atuo como Monitor de T.I , curso <br>
+a faculdade de Sistema da Informação. <br>
+Trabalho com C#, JAVA e JavaScript com <br>
+foco em Front-End
   
   
   </p>
