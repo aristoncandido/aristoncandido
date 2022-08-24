@@ -31,8 +31,6 @@
 
 
 
- <img src = "https://static.wikia.nocookie.net/pixar/images/3/38/Mike1.png/revision/latest?cb=20191001002722&path-prefix=pt" width:100px; height: 100px; >
-
 
 
 </div>
