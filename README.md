@@ -13,9 +13,24 @@
  
 </div>
 
-  <h1 style="background-color: #000">
-     
+  <h1 >
      Monitor de T.I | Desenvolvimento Front-end | 
   </h1>
  
+ 
+ <div>
+  
+  <h2>   SEI LA</h2>
+  <p>
+          
+  
+  
+  </p>
 
+
+
+
+
+
+
+</div>
