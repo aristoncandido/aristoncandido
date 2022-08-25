@@ -14,7 +14,7 @@
 </div>
 
   <h1 >
-     Monitor de T.I | Desenvolvimento Front-end | 
+     Monitor de T.I | Desenvolvimento Front-end | Segurança da Informação
   </h1>
  
  
