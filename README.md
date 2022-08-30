@@ -28,8 +28,7 @@
               foco em Front-End.
       
   </p>
-          <img src="![mike](https://user-images.githubusercontent.com/97634221/186503259-eb33fe8c-667b-487f-9ba5-19e14b87fb3d.png)
-                      " alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+         
 
 
 
