@@ -19,9 +19,9 @@
 </div>
 
   <h1 >
-     Monitor de T.I | Desenvolvimento Front-end | Segurança da Informação
+     Monitor de T.I | Desenvolvimento Front-end | Segurança da Informação | Técnico em Jogos Digitais
   </h1>
-    <h3> ESTOU APRESENTANDO MEU GIT PRA TURMA DA TARDE DO IOS</h3>
+ 
  
  <div>
   
