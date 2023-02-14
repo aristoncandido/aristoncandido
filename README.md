@@ -32,6 +32,7 @@
            
       
   </p>
+   <a href="https://www.linkedin.com/in/ariston-cândido-44964a1bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
          
 
 
