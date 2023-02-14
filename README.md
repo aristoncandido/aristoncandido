@@ -29,8 +29,7 @@
   <p>
              - Atualmente atuo como Monitor de T.I , curso <br>
              - a faculdade de Sistema da Informação. <br>
-             - Trabalho com C#, JAVA e JavaScript com <br>
-             - foco em Front-End.
+           
       
   </p>
          
