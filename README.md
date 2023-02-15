@@ -17,11 +17,13 @@
  
  
 </div>
-
+ 
   <h1 >
      Monitor de T.I | Desenvolvimento Front-end | Segurança da Informação | Técnico em Jogos Digitais
   </h1>
- 
+   
+   </br>
+   ![Ariston GitHub stats](https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave)
  
  <div>
   
@@ -42,7 +44,7 @@ Para entrar em contato, por favor, envie um e-mail para aristoncandido.nw@gmail.
 <div style="display:flex">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&layout=compact)](https://github.com/anuraghazra/github-readme-stats-dark)
-![Ariston GitHub stats](https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave)
+
 
 
 
