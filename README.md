@@ -18,19 +18,22 @@
  
 </div>
  
-  <h1 >
+  <h1 style="color:blue;">
      Monitor de T.I | Desenvolvimento Front-end | Segurança da Informação | Técnico em Jogos Digitais 🎮 
   </h1>
    
   
-  <p style="border:10px solid black;" >
-
-   ![Ariston GitHub stats](https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave)
-    
-    
-   <img style="width:25%;height:25%; float:left; "   src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
- 
-  </p>
+ <div style="display:flex; flex-direction:row; background:green;">
+   <img src="https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave" style="width:50%; height:50%;"/>
+   <div style="width:50%; background:red;">
+      <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="width:20%; height:20%;"/>
+   </div>
+</div>
+  
+  
+  
+  
+  
   
    
    
