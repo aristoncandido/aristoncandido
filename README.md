@@ -26,7 +26,7 @@
  <div style="display:flex; flex-direction:row; background:green;">
    <img src="https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave" style="width:50%; height:50%;"/>
    <div style="width:50%; background:red;">
-      ![texto alternativo da imagem](caminho/para/a/imagem.png)
+      ![texto alternativo da imagem](https://octodex.github.com/images/daftpunktocat-thomas.gif)
    </div>
 </div>
   
