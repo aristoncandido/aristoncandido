@@ -19,17 +19,18 @@
 </div>
  
   <h1 >
-     Monitor de T.I | Desenvolvimento Front-end | Segurança da Informação | Técnico em Jogos Digitais
+     Monitor de T.I | Desenvolvimento Front-end | Segurança da Informação | Técnico em Jogos Digitais 🎮 
   </h1>
    
   
-  <div  style="display:flex;">
+  <p style="border:10px solid black;" >
 
    ![Ariston GitHub stats](https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave)
     
     
-   <img style="width:25%;height:25%; "   src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
-  </div>
+   <img style="width:25%;height:25%; float:left; "   src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
+ 
+  </p>
   
    
    
@@ -56,7 +57,7 @@ Para entrar em contato, por favor, envie um e-mail para aristoncandido.nw@gmail.
 
 
 
-<div style="display:flex; flex_direction:column; margin_left:5%"> 
+<div style="; margin_left:5%"> 
 <img style="margin-bottom:2%" alt="aris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  style="margin-bottom:2%" alt="aris-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img style="margin-bottom:2%" alt="aris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
