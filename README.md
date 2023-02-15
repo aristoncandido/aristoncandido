@@ -45,7 +45,7 @@
 
 
 
-<div style="display:flex; flex-direction:column; margin-left:5%"> 
+<div style="display:flex; flex_direction:column; margin_left:5%"> 
 <img style="margin-bottom:2%" alt="aris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  style="margin-bottom:2%" alt="aris-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img style="margin-bottom:2%" alt="aris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
