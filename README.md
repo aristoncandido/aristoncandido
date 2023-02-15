@@ -1,4 +1,4 @@
-## <h1>Olá me chamo Ariston Cândido, prazer em lhe conhecer 🐱‍💻!</h1>
+## <h1>Hey me chamo Ariston Cândido, prazer em lhe conhecer 🐱‍💻!</h1>
 
 </div>
   
@@ -33,9 +33,7 @@
        
       
   </p>
-  ## <h1>Hey me chamo Ariston Cândido, prazer em lhe conhecer 🐱‍💻!</h1>
-![Ariston GitHub stats](https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave)
-</br>
+ 
 
 <h2>Tecnologias Frequentes</h2>
 
@@ -50,9 +48,7 @@
 <div style="">
 <img style="width:100%;height:15rem;" alt='olá' src="https://thumbs.gfycat.com/DimSoupyIrishsetter-max-1mb.gif"/> 
 
- <h3 style="width:58%">Obrigado Por Visitar o Meu Perfil !
-    Estou sempre a disposição para troca de experiências 😁
- </h3>
+
 
 </div>
   
@@ -79,3 +75,7 @@
 
 
 </div>
+
+ <h3 style="width:58%">Obrigado Por Visitar o Meu Perfil !
+    Estou sempre a disposição para troca de experiências 😁
+ </h3>
