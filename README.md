@@ -25,10 +25,11 @@
  
  <div>
   
-  <h2> About me</h2>
+  <h2> Um pouco de mim..🗿 🍷</h2>
   <p>
-             - Atualmente atuo como Monitor de T.I , curso <br>
-             - a faculdade de Sistema da Informação. <br>
+      Sou um aprendiz ambicioso de programação baseada em objetos, trabalhando atualmente como Monitor de Tecnologia e aplicando as tecnologias CSS, HTML, JavaScript e React.js. Estou cursando Sistemas de Informação e possuo formação em Técnico em Jogos Digitais. Sempre busco novas oportunidades para aprimorar minhas habilidades no dinâmico mundo de T.I. Minha paixão reside na área de cibersegurança, porém estou aberto a considerar oportunidades em outros setores da tecnologia da informação, incluindo o papel de desenvolvedor.
+
+Para entrar em contato, por favor, envie um e-mail para aristoncandido.nw@gmail.com. Estou animado para conversar sobre como posso contribuir para o sucesso da sua empresa.
     
        
       
