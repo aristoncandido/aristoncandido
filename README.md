@@ -12,7 +12,7 @@
 <div> 
 
  
-  <img style="width:100rem;height:25rem;margin: auto" alt='olá' src="https://thumbs.gfycat.com/DimSoupyIrishsetter-max-1mb.gif"/> 
+  <img style="width:70rem;height:15rem;margin: auto" alt='olá' src="https://thumbs.gfycat.com/DimSoupyIrishsetter-max-1mb.gif"/> 
  
  
  
@@ -42,7 +42,7 @@ Para entrar em contato, por favor, envie um e-mail para aristoncandido.nw@gmail.
 <div style="display:flex">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&layout=compact)](https://github.com/anuraghazra/github-readme-stats-dark)
-
+![Ariston GitHub stats](https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave)
 
 
 
