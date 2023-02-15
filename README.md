@@ -26,7 +26,7 @@
  <div style="display:flex; flex-direction:row; background:green;">
    <img src="https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave" style="width:50%; height:50%;"/>
    <div style="width:50%; background:red;">
-     <img  style="width:25%;height:25%;" src="https:octodex.github.com/images/daftpunktocat-thomas.gif" />
+     <img  style="width:25%;height:25%; position:absolute;right:0" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
    </div>
 </div>
   
