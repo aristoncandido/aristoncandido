@@ -12,7 +12,7 @@
 <div> 
 
  
-  <img style="width:100rem;height:20rem;margin: auto" alt='olá' src="https://thumbs.gfycat.com/DimSoupyIrishsetter-max-1mb.gif"/> 
+  <img style="width:100rem;height:25rem;margin: auto" alt='olá' src="https://thumbs.gfycat.com/DimSoupyIrishsetter-max-1mb.gif"/> 
  
  
  
