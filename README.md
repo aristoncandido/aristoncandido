@@ -12,7 +12,7 @@
 <div> 
 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  <img style="width:100%;height:15rem;margin: auto" alt='olá' src="https://thumbs.gfycat.com/DimSoupyIrishsetter-max-1mb.gif"/> 
  
  
  
@@ -67,7 +67,7 @@
 
 
 </div>
-<img style="width:100%;height:15rem;margin: auto" alt='olá' src="https://thumbs.gfycat.com/DimSoupyIrishsetter-max-1mb.gif"/> 
+
 
  <h3 style="width:58%">Obrigado Por Visitar o Meu Perfil !
     Estou sempre a disposição para troca de experiências 😁
