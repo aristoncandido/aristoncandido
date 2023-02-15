@@ -22,9 +22,17 @@
      Monitor de T.I | Desenvolvimento Front-end | Segurança da Informação | Técnico em Jogos Digitais
   </h1>
    
+  
+  <div  style="display:flex;">
 
    ![Ariston GitHub stats](https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave)
- 
+    
+    
+   <img style="width:25%;height:25%; "   src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
+  </div>
+  
+   
+   
  <div>
   
   <h2> Um pouco de mim..🗿 🍷</h2>
