@@ -22,7 +22,7 @@
      Monitor de T.I | Desenvolvimento Front-end | Segurança da Informação | Técnico em Jogos Digitais
   </h1>
    
-   </br>
+
    ![Ariston GitHub stats](https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave)
  
  <div>
