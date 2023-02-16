@@ -23,13 +23,11 @@
   </h1>
    
   
- <div style="display:flex; flex-direction:row; background:green;">
-   <img src="https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave" style="width:50%; height:50%;"/>
-   <div style="width:50%; background:red;">
-     <img  style="width:25%;height:25%; position:absolute;right:0" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
-   </div>
-</div>
+<div>
   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" margin_left:"300%" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
+<div>
   
   
   
@@ -54,9 +52,7 @@ Para entrar em contato, por favor, envie um e-mail para aristoncandido.nw@gmail.
 
 
 <div style="display:flex">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&layout=compact)](https://github.com/anuraghazra/github-readme-stats-dark)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&layout=compact&langs_count=8&theme=synthwave"/>
 
 
 
