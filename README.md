@@ -25,16 +25,11 @@
   
 <div>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" margin_left:"300%" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
+  <img height="180em" margin-right="10%" src="https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
 <div>
   
   
-  
-  
-  
-   
-   
  <div>
   
   <h2> Um pouco de mim..🗿 🍷</h2>
