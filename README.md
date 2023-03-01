@@ -23,17 +23,17 @@
   
   </h1>
   
-  <h2>
   
-    Site que estou desenvolvendo no momento :
   
-  </h2>
+  
+   <p>
+   
+    Site que estou desenvolvendo no momento : https://aristonworlds.netlify.app/
+  
+  </p>
     
-   <h3>
-         <a>
-                https://aristonworlds.netlify.app/
-         </a>  
-   </h3>   
+  
+  
   
 <div>
   
