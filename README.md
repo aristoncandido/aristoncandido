@@ -20,18 +20,19 @@
  
   <h1 style="color:blue;">
      Monitor de T.I | Desenvolvimento Front-end | Segurança da Informação | Técnico em Jogos Digitais 🎮 
+     
+   
   
+  
+
+    
+    
   </h1>
   
   
   
   
-   <p>
-   
-    Site que estou desenvolvendo no momento : https://aristonworlds.netlify.app/
   
-  </p>
-    
   
   
   
@@ -83,7 +84,12 @@ Para entrar em contato, por favor, envie um e-mail para aristoncandido.nw@gmail.
 
 </div>
 
-
+    
+  <p>
+        <a href="https://aristonworlds.netlify.app/"> Clique para abrir o Mundo que estou desenvolvendo.... :) </a>
+  </p>
+  
+  
 </div>
 
 
