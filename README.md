@@ -87,15 +87,10 @@ Para entrar em contato, por favor, envie um e-mail para aristoncandido.nw@gmail.
     
   <p>
         <a href="https://aristonworlds.netlify.app/"> Clique para abrir o Mundo que estou desenvolvendo.... :) 
-    
-    
     </a>
     
-        
-                   <a href="https://matrixrainn.netlify.app">
-                     Aqui está chuvendo bastante clique para tentar parar !
-                    
-                   </a>
+   
+    
         
   </p>
   
@@ -104,6 +99,11 @@ Para entrar em contato, por favor, envie um e-mail para aristoncandido.nw@gmail.
 
 
  <h3 style="width:58%">Obrigado Por Visitar o Meu Perfil !
-    Estou sempre a disposição para troca de experiências 😁
+    Estou sempre a disposição para troca de <a href="https://matrixrainn.netlify.app">experiências</a> 😁
+   
+   
+                    
+               
+    
  </h3>
 
