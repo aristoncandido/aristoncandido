@@ -37,8 +37,6 @@
   
   
 <div>
-  
-  <img height="180em" margin-right="10%" src="https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
 <div>
   
@@ -60,7 +58,7 @@ Para entrar em contato, por favor, envie um e-mail para aristoncandido.nw@gmail.
 
 
 <div style="display:flex">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&layout=compact&langs_count=8&theme=synthwave"/>
+
 
 
 
