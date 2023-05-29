@@ -13,6 +13,9 @@
 
  
   <img style="width:70rem;height:22rem;margin: auto" alt='olá' src="https://thumbs.gfycat.com/DimSoupyIrishsetter-max-1mb.gif"/> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&hide_progress=false)](https://github.com/aristoncandido/github-readme-stats)
+  
  
  
  
@@ -107,7 +110,6 @@ Para entrar em contato, por favor, envie um e-mail para aristoncandido.nw@gmail.
 
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&hide_progress=true)](https://github.com/aristoncandido/github-readme-stats)
   
   
   
