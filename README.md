@@ -14,7 +14,7 @@
  
   <img style="width:70rem;height:22rem;margin: auto" alt='olá' src="https://thumbs.gfycat.com/DimSoupyIrishsetter-max-1mb.gif"/> 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&hide_progress=false)](https://github.com/aristoncandido/github-readme-stats)
+  
   
  
  
@@ -41,6 +41,7 @@
   
 <div>
   <img height="180em"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&hide_progress=false)](https://github.com/aristoncandido/github-readme-stats)
 <div>
   
   
