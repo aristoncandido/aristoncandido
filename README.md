@@ -41,7 +41,15 @@
   
 <div>
   <img height="180em"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
+  
+  
+  
+  
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&hide_progress=false)](https://github.com/aristoncandido/github-readme-stats)
+  
+  
+  
 <div>
   
   
