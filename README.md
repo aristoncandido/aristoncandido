@@ -46,12 +46,12 @@
   
   
   
-  <div style="width:50%;">
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&hide_progress=false)](https://github.com/aristoncandido/github-readme-stats)
   
   
   
-  </div>
+
 <div>
   
   
