@@ -47,7 +47,7 @@
   
   
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&hide_progress=false)](https://github.com/aristoncandido/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&hide_progress=true)](https://github.com/aristoncandido/github-readme-stats)
   
   
   
