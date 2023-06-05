@@ -78,7 +78,7 @@ Para entrar em contato, por favor, envie um e-mail para aristoncandido.nw@gmail.
 
 <div style="; margin_left:5%"> 
 <img style="margin-bottom:2%" alt="aris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img  style="margin-bottom:2%" alt="aris-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img  style="margin-bottom:2%" alt="aris-csharp" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
   <img style="margin-bottom:2%" alt="aris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img style="margin-bottom:2%" alt="aris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img style="margin-bottom:2%" alt="aris" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
