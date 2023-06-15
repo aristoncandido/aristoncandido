@@ -45,9 +45,8 @@
   
   
   
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&hide_progress=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&hide_progress=false)](https://github.com/aristoncandido/github-readme-stats)
   
   
   
