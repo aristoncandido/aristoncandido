@@ -22,7 +22,7 @@
 </div>
  
   <h1 style="color:blue;">
-     Monitor de T.I | Desenvolvimento Front-end | Segurança da Informação | Técnico em Jogos Digitais 🎮 
+     Desenvolvimento Front-end | Segurança da Informação | Técnico em Jogos Digitais 🎮 
      
    
   
