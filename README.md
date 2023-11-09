@@ -1,5 +1,5 @@
 ## <h1 style="text-align:center;">Hey me chamo Ariston Cândido, prazer em lhe conhecer 🐱‍💻!</h1>
-
+<center>
 </div>
   
   <div align="center">
@@ -119,7 +119,7 @@ Para entrar em contato, por favor, envie um e-mail para aristoncandido.nw@gmail.
  </h3>
 
   
-  
+  </center>
   
   
   
