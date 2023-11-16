@@ -99,22 +99,14 @@ Para entrar em contato, por favor, envie um e-mail para aristoncandido.nw@gmail.
 
 </div>
 
-    
-  <p>
-        <a href="https://aristonworlds.netlify.app/"> Clique para abrir o Mundo que estou desenvolvendo.... :) 
-    </a>
-    
-   
-    
-        
-  </p>
+
   
   
 </div>
 
 
  <h3 style="width:58%">Obrigado Por Visitar o Meu Perfil !
-    Estou sempre a disposição para troca de <a href="https://matrixrainn.netlify.app">experiências</a> 😁
+    Estou sempre a disposição para troca de experiências :D
    
    
                     
