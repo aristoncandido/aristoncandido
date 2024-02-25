@@ -60,11 +60,11 @@
   
   <h2> Um pouco de mim..🗿 🍷</h2>
   <p>
-      Sou um aprendiz ambicioso de programação baseada em objetos, trabalhando atualmente como Monitor de Tecnologia e aplicando as tecnologias CSS, HTML, JavaScript e React.js. Estou cursando Sistemas de Informação e possuo formação em Técnico em Jogos Digitais. Sempre busco novas oportunidades para aprimorar minhas habilidades no dinâmico mundo de T.I. Minha paixão reside na área de cibersegurança, porém estou aberto a considerar oportunidades em outros setores da tecnologia da informação, incluindo o papel de desenvolvedor.
+Como um entusiasta em ascensão da programação, estou atualmente imerso em meus estudos de Sistemas de Informação, complementados pela minha formação como Técnico em Jogos Digitais. Meu papel atual abrange desde a resolução de demandas em Infraestrutura e Redes até o foco no gerenciamento de Servidores e sistemas Windows, com uma atividade destacada no desenvolvimento de projetos que oferecem soluções eficazes para profissionais e para o Conselho Regional de Enfermagem de Pernambuco.
 
-Para entrar em contato, por favor, envie um e-mail para aristoncandido.nw@gmail.com. Estou animado para conversar sobre como posso contribuir para o sucesso da sua empresa.
-    
-       
+Meu conjunto de habilidades inclui PHP, Javascript, Wordpress, Windows Server e Redes, demonstrando minha versatilidade e comprometimento em me manter atualizado neste cenário em constante evolução da Tecnologia da Informação. Embora minha paixão é direcionada para a área de Cibersegurança, estou completamente aberto a explorar oportunidades em outros domínios deste vasto campo, incluindo o desafiador papel de desenvolvedor.
+
+Para estabelecer contato, por favor, envie um e-mail para aristoncandido.nw@gmail.com. Estou ansioso para discutir como posso contribuir para o sucesso de sua empresa.
       
   </p>
  
