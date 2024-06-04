@@ -26,7 +26,7 @@
 </div>
  
   <h1 style="color:blue;">
-     Desenvolvimento Front-end | Segurança da Informação | Técnico em Jogos Digitais 🎮 
+     Desenvolvimento | Segurança da Informação
      
    
   
