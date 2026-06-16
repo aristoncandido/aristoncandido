@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Engineer · Detection Engineering · Blue ↔ Red</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=620&lines=Detection+Engineer+%7C+SIEM+%7C+Threat+Hunting;3%2B+years+in+SOC%2C+IR+and+threat+hunting;I+turn+threat+intel+into+detections;Blue+team+depth+%2B+offensive+mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=620&lines=Detection+Engineer+%7C+SIEM+%7C+Threat+Hunting;4%2B+years+in+SOC%2C+IR+and+threat+hunting;I+turn+threat+intel+into+detections;Blue+team+depth+%2B+offensive+mindset" alt="Typing SVG" />
 </p>
 
 <p align="center">
