@@ -1,118 +1,143 @@
-<center>
+<h1 align="center">Hi, I'm Ariston 👋</h1>
+<h3 align="center">Cybersecurity Engineer · Detection Engineering · Blue ↔ Red</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Detection+Engineer+%7C+SIEM+%7C+Threat+Hunting;I+turn+threat+intel+into+detections;Blue+team+depth+%2B+offensive+mindset;MITRE+ATT%26CK-driven+defense" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Detection%20Engineering-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-Threat%20Informed-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loop-Blue%20%E2%86%94%20Red-A855F7?style=for-the-badge" />
+</p>
 
-## <h1 style="text-align:center;">Hey me chamo Ariston Cândido, prazer em lhe conhecer 🐱‍💻!</h1>
+---
 
-</div>
-  
-  <div align="center">
-  <a href="https://github.com/aristoncandido">
-   
+## 🛡️ About me
 
-  </a>
-</div>
- 
-<div> 
+I'm a cybersecurity professional based in **Brazil 🇧🇷**, working at the intersection of **SOC analysis and detection engineering**, on a deliberate path toward a full **Cybersecurity Engineer** role that bridges blue team and offensive security.
 
- 
-  <img style="width:70rem;height:22rem;margin: auto" alt='olá' src="https://thumbs.gfycat.com/DimSoupyIrishsetter-max-1mb.gif"/> 
-  
-  
-  
- 
- 
- 
-</div>
- 
-  <h1 style="color:blue;">
-     Desenvolvimento | Segurança da Informação
-     
-   
-  
-  
+My day-to-day lives across multiple client environments: deploying and tuning SIEMs, engineering detection rules, mapping coverage to **MITRE ATT&CK**, and hardening **Active Directory** monitoring. I learn by doing — real logs, real environments, real findings.
 
-    
-    
-  </h1>
+- 🔭 Building a **threat-informed detection engineering** practice: intel → research → Sigma → validation → hunting
+- 🧪 Sharpening **offensive skills** (web app pentesting, AD attack paths) to write better detections — the **blue ↔ red loop**
+- ☁️ Migrating a SaaS app (**Gallanti Shield**) to **AWS**, doubling as a real-world pentest target
+- 🎯 Next milestones: deepen **Detection-as-Code**, **OSCP**-style offense, and cloud security
 
-  
-  
-  
-  
-  
-<div style="display: inline-block;">
-  <img height="180em"  src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
-  
-  
-  
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&hide_progress=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+> *"For every offensive finding, write a detection rule. Close the loop."*
 
-  
-  
-  
+---
 
-<div>
-  
-  
- <div>
-  
-  <h2> Um pouco de mim..🗿 🍷</h2>
-  <p>
-Como um entusiasta em ascensão da programação, estou atualmente imerso em meus estudos de Sistemas de Informação, complementados pela minha formação como Técnico em Jogos Digitais. Meu papel atual abrange desde a resolução de demandas em Infraestrutura e Redes até o foco no gerenciamento de Servidores e sistemas Windows, com uma atividade destacada no desenvolvimento de projetos que oferecem soluções eficazes para profissionais e para o Conselho Regional de Enfermagem de Pernambuco.
+## 🧰 Tech & Tooling
 
-Meu conjunto de habilidades inclui PHP, Javascript, Wordpress, Windows Server e Redes, demonstrando minha versatilidade e comprometimento em me manter atualizado neste cenário em constante evolução da Tecnologia da Informação. Embora minha paixão é direcionada para a área de Cibersegurança, estou completamente aberto a explorar oportunidades em outros domínios deste vasto campo, incluindo o desafiador papel de desenvolvedor.
+**SIEM / Detection**
 
-Para estabelecer contato, por favor, envie um e-mail para aristoncandido.nw@gmail.com. Estou ansioso para discutir como posso contribuir para o sucesso de sua empresa.
-      
-  </p>
- 
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elasticstack&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3B82F6?style=flat&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma_Rules-EF4444?style=flat&logoColor=white)
 
-<h2>Tecnologias Frequentes</h2>
+**EDR / XDR**
 
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike_Falcon-E01F27?style=flat&logo=crowdstrike&logoColor=white)
+![Trend Micro](https://img.shields.io/badge/Trend_Vision_One-D71920?style=flat&logo=trendmicro&logoColor=white)
 
-<div style="display:flex">
+**Offensive**
 
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat&logo=owasp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logoColor=white)
 
+**Cloud / Infra**
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<div style="; margin_left:5%"> 
-<img style="margin-bottom:2%" alt="aris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img style="margin-bottom:2%" alt="aris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img style="margin-bottom:2%" alt="aris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img style="margin-bottom:2%" alt="aris" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+**Frameworks & Methodology**
 
-</div>
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=flat&logoColor=white)
+![D3FEND](https://img.shields.io/badge/D3FEND-1F6FEB?style=flat&logoColor=white)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-005EA2?style=flat&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
 
+---
 
+## ⚙️ What I actually do
 
-</div>
+```yaml
+detection_engineering:
+  pipeline:
+    - intelligence:   "Mine threats from DFIR Report, MITRE, CISA, vendor intel"
+    - research:       "Extract TTPs, apply Pyramid of Pain (detect behavior, not hashes)"
+    - development:    "Author Sigma → convert to SPL / KQL / Wazuh XML"
+    - validation:     "Emulate with Atomic Red Team, confirm the rule fires"
+    - operation:      "Deploy, hunt retroactively, tune false positives"
+  coverage: "Mapped to MITRE ATT&CK Navigator"
 
+blue_team:
+  - SIEM deployment & tuning (Wazuh / Splunk / Elastic)
+  - Custom detection rules & alert correlation
+  - Active Directory security monitoring
+  - Log pipeline design, normalization & parsing
 
-  <br/>
+red_team:
+  - Web application pentesting (OWASP WSTG)
+  - Active Directory attack paths
+  - Recon, threat modeling, exploitation
+  - Every finding → a corresponding detection rule
+```
 
-   <a href="https://www.linkedin.com/in/ariston-cândido-44964a1bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
 
-</div>
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-  
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
- <h3 style="width:58%">Obrigado Por Visitar o Meu Perfil !
-    Estou sempre a disposição para troca de experiências :D
-   
-   
-                    
-               
-    
- </h3>
+---
 
-  
-  </center>
-  
-  
-  
+## 📌 Featured / In Progress
+
+| Project | What it is | Status |
+|---|---|---|
+| 🔍 **detection-rules** | Sigma → SPL/KQL/Wazuh, mapped to ATT&CK, validated with Atomic Red Team | 🟢 Active |
+| ☁️ **Gallanti Shield** | SaaS app migrating to AWS — also my live pentest lab | 🟡 In progress |
+| 🧪 **blue-red-loop** | Offensive findings turned into detections, documented end-to-end | 🟢 Active |
+| 📚 **detection-engineering-notes** | Threat-informed DE playbooks & ADS-format write-ups | 🟢 Active |
+
+---
+
+## 🎯 Currently learning
+
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-22C55E?style=flat-square)
+![Detection as Code](https://img.shields.io/badge/Detection_as_Code-3B82F6?style=flat-square)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-FF9900?style=flat-square)
+![Offensive Security](https://img.shields.io/badge/Offensive_Security-EF4444?style=flat-square)
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=22C55E" alt="profile views" />
+</p>
+
+<p align="center"><i>Defense in depth. Offense for context. Detection as the loop that connects them.</i></p>
