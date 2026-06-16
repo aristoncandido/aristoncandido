@@ -15,7 +15,7 @@
 
 ## 🛡️ About me
 
-Cybersecurity professional based in **Recife, Brazil 🇧🇷**, with **3+ years of experience** across **SOC operations, threat hunting, and incident response**. I currently work as a **Security Solutions Architect / SIEM Analyst**, building detections and integrations across client infrastructures — on a deliberate path toward a full **Cybersecurity Engineer** role that bridges blue team and offensive security.
+Cybersecurity professional based in *Brazil 🇧🇷**, with ** 4+ years of experience** across **SOC operations, threat hunting, and incident response**. I currently work as a **Security Solutions Architect / SIEM Analyst**, building detections and integrations across client infrastructures — on a deliberate path toward a full **Cybersecurity Engineer** role that bridges blue team and offensive security.
 
 I design and tune SIEMs, engineer detection and correlation rules in **SPL / KQL / Sigma**, map coverage to **MITRE ATT&CK**, and harden **Active Directory / Entra ID** monitoring. I learn by doing — real logs, real environments, real findings.
 
@@ -130,7 +130,7 @@ detection_engineering:
   integrations: ["Active Directory", "Entra ID", "Azure Logs", "Fortinet", "Cisco Umbrella"]
 
 blue_team:
-  - SIEM deployment, tuning & correlation (Wazuh / Splunk / Elastic / Sentinel)
+  - SIEM deployment, tuning & correlation (Wazuh / Splunk / Elastic ELK / Sentinel)
   - Detection & alert correlation in SPL / KQL / Sigma
   - Threat hunting (MITRE ATT&CK / NIST / ISO 27001)
   - Vulnerability management (CVE / CVSS prioritization)
@@ -148,16 +148,16 @@ red_team:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aristoncandido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aristoncandido&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aristoncandido&theme=tokyonight" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aristoncandido&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -204,7 +204,7 @@ red_team:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=22C55E" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aristoncandido&style=flat-square&color=22C55E" alt="profile views" />
 </p>
 
 <p align="center"><i>Defense in depth. Offense for context. Detection as the loop that connects them.</i></p>
